@@ -2,14 +2,6 @@
 ### Updated to Flutter 3.0 & New Updated Design
 
 A simple weather App created using [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) and using API from [OpenWeatherMap](https://openweathermap.org/)</br></br>
-**New Design Inspired by [Rina Damayanti](https://dribbble.com/shots/23103004-Weather-Mobile-App) on Dribbble.**</br>
-
-<p align="center">
-<img src="https://github.com/ArizArmeidi/FlutterWeather/assets/60814961/ab3f4a18-e6bb-4688-b70b-305611d7e8b5" width="20%"></img> 
-<img src="https://github.com/ArizArmeidi/FlutterWeather/assets/60814961/95cba2e0-62b7-40b5-93b2-f16ee95c96a1" width="20%"></img> 
-<img src="https://github.com/ArizArmeidi/FlutterWeather/assets/60814961/9638b4d9-ec4d-4401-9052-dacaac2f7ef6" width="20%"></img> 
-<img src="https://github.com/ArizArmeidi/FlutterWeather/assets/60814961/5189de89-1a3d-499a-867b-d12b856653a6" width="20%"></img>
-</p>
 
 ## API Docs   
 > [!IMPORTANT] 
@@ -48,9 +40,3 @@ A simple weather App created using [Flutter](https://flutter.dev/) and [Dart](ht
    ```
 6. Run the App
 
-## Contact
-- [Ariz Armeidi](https://github.com/ArizArmeidi/) | [Twitter](https://twitter.com/ArizArmeidi) | [Instagram](https://www.instagram.com/ariz.armeidi/)
-- If you find the content of this repository useful and you have some extra money, you can donate to me through [PayPal](https://www.paypal.com/paypalme/arizarmeidi)
-
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
