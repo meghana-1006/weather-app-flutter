@@ -1,15 +1,7 @@
 # FlutterWeather
-### Updated to Flutter 3.0 & New Updated Design
 
 A simple weather App created using [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) and using API from [OpenWeatherMap](https://openweathermap.org/)</br></br>
 
-## API Docs   
-> [!IMPORTANT] 
-> This project uses **_version 2.5_** of the OpenWeatherMap API</br>
-> **API used in this project**:</br>
-> - [Current Weather API Docs](https://openweathermap.org/current#one)</br>
-> - [One Call API Docs](https://openweathermap.org/api/one-call-api#data)</br>
-> - [Geocoding API Docs](https://openweathermap.org/api/geocoding-api)</br>
 
 
 ## Features      
